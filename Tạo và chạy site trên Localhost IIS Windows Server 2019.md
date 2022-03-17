@@ -1,7 +1,7 @@
 **Tạo và chạy site trên Localhost IIS Windows Server 2019**
 
 
-`  `Vào biểu tượng tìm kiếm gõ **inetmgr >> Enter** 
+  `Vào biểu tượng tìm kiếm trên thanh taskbar gõ lệnh **inetmgr >> Enter** 
 
 ![ảnh](https://user-images.githubusercontent.com/101308077/158891700-134fa04a-f6ca-496b-9cd2-c6306aed2639.png)
 
