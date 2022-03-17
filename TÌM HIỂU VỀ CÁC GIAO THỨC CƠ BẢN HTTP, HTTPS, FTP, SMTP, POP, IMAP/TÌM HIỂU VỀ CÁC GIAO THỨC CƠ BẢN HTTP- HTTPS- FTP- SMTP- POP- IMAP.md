@@ -17,7 +17,7 @@ Cổng mặc định của HTTPS là 443.
 
 Trên đây là nội dung chức năng nhiệm vụ cụ thể của 14 giao thức giao thức cơ bản.
 1. ### **File Transfer Protocol (FTP)**
-[File Transfer Protocol (FTP)](https://www.totolink.vn/article/154-giao-thuc-ftp-la-gi-nhung-dieu-ban-chua-biet-ve-giao-thuc-ftp.html) - Giao thức truyền tập tin. Và hướng được dùng để trao đổi tập tin qua mạng lưới truyền thông dùng giao thức TCP/IP .
+[File Transfer Protocol (FTP)]() - Giao thức truyền tập tin. Và hướng được dùng để trao đổi tập tin qua mạng lưới truyền thông dùng giao thức TCP/IP .
 
 Cổng mặc định của FTP là 20/21.
 
