@@ -1,6 +1,6 @@
 **Tạo site chạy code Asp Classic trên IIS Windows Server 2019**
 
-Bước 1: Chọn **add roles and features** trong *Server Manager/Dashboash*
+Bước 1: Chọn **Add roles and features** trong *Server Manager/Dashboash*
 
 ![ảnh](https://user-images.githubusercontent.com/101308077/159037873-cb7260b5-0c58-4efe-8264-ee6e24290e62.png)
 
@@ -28,7 +28,7 @@ Bước 7: chọn **Site** và chuột phải chọn **Add Website**
 
 ![ảnh](https://user-images.githubusercontent.com/101308077/159042581-441d3c7c-54aa-409b-901d-8a4ee00cc6c5.png)
 
-Bước 8: Tại ô **site name:** điền tên domain, Tại **Physical path** >> click vào dấu **...** tìm đến đường dẫn tới thư mục chứa website, Tại **Host name** điền tên host >> **OK**
+Bước 8: Tại ô **site name:** điền tên domain, Tại **Physical path** >> click vào dấu **"..."** tìm đến đường dẫn tới thư mục chứa website, Tại **Host name** điền tên host >> **OK**
 
 ![ảnh](https://user-images.githubusercontent.com/101308077/159043414-c831c481-1651-47a5-b916-500c58dbadac.png)
 
