@@ -44,6 +44,8 @@ Bước 11: Mở trình duyệt và kiểm tra lại tiến trình cài đặt
 
 ![ảnh](https://user-images.githubusercontent.com/101308077/159045868-aa732f8e-ad49-4be4-8ba8-ef196ca9e199.png)
 
+Tiếp tục cài đặt SQL Server để kết nối cơ sở dữ liệu
+
 Lưu ý: <p>- Set Permissions cho thư mục chứa website</p>
        <p>- Set Default Document cho site ví dụ index.asp.</p>
 
