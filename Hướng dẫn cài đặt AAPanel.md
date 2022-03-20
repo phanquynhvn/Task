@@ -27,7 +27,9 @@ Quá trình cài đặt kết thúc, lưu thông tin đăng nhập.
 
 Bấm vào Onle-click install để cài đặt Webserver
 
+![ảnh](https://user-images.githubusercontent.com/101308077/159174310-c1673669-c528-4102-8e5e-4a970ce667f6.png)
 
+Kiểm tra lại cài đặt và sử dụng.
 
 
 
