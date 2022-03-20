@@ -1,4 +1,4 @@
-**MỘT SỐ LỆNH LINUX CƠ BẢN TRONG LINUX**
+**MỘT SỐ LỆNH CƠ BẢN TRONG LINUX**
 
 
 
