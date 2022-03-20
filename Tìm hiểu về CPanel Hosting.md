@@ -1,7 +1,5 @@
 # **cPanel Hosting là gì? Tìm hiểu tất tần tật về cPanel Hosting**
-- Nguyễn Trọng Giảng
-- 14/09/2020, 04:02 pm
-- 1,285
+
 
 ***cPanel Hosting** có thể sẽ không còn xa lạ gì đối với những bạn làm IT thường xuyên tiếp xúc và quản lý website nhưng đây chắc chắn là một khái niệm xa lạ đối với nhiều người khác. **cPanel là control panel nền Linux** phổ biến nhất cho tài khoản web hosting mang lại nhiều công dụng, giúp người dùng quản lý website đơn giản hơn rất nhiều. Hãy cùng Nhân Hòa tìm hiểu kỹ hơn về cPanel Hosting ngay trong bài viết dưới đây nhé.*
 
